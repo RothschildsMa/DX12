@@ -19,6 +19,7 @@ int         g_WindowHeight;
 
 
 
+
 HWND GetWindow()
 {
     return g_Window;
